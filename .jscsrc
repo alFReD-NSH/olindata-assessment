@@ -1,0 +1,10 @@
+{
+    "preset": "airbnb",
+    "excludeFiles": [
+        "node_modules/**",
+        "client/vendor/**",
+        "client/js/services/lb-services.js",
+        "test/**",
+        "coverage/**"
+    ]
+}
